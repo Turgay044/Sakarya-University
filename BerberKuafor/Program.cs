@@ -5,7 +5,7 @@ using BerberKuafor.Areas.Identity.Data;
 using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.General;
 
 var builder = WebApplication.CreateBuilder(args);
-var connectionString = builder.Configuration.GetConnectionString("BerberKuaforDBContextConnection") ?? throw new InvalidOperationException("Connection string 'BerberKuaforDBContextConnection' not found.");;
+var connectionString = builder.Configuration.GetConnectionString("BerberKuaforDBContextConnection") ?? throw new InvalidOperationException("Connection string 'BerberKuaforDBContextConnection' not found."); ;
 
 builder.Services.AddDbContext<BerberKuaforDBContext>(options => options.UseSqlServer(connectionString));
 
@@ -38,4 +38,5 @@ app.MapControllerRoute(
 
 app.MapRazorPages();
 
+//Run
 app.Run();
