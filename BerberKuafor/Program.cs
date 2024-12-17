@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using BerberKuafor.Data;
 using BerberKuafor.Areas.Identity.Data;
+using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.General;
 
 var builder = WebApplication.CreateBuilder(args);
 var connectionString = builder.Configuration.GetConnectionString("BerberKuaforDBContextConnection") ?? throw new InvalidOperationException("Connection string 'BerberKuaforDBContextConnection' not found.");;
