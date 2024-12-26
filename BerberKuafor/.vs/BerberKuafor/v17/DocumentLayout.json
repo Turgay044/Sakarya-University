@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drtur\\source\\repos\\BerberKuafor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7461E-ACDE-4898-929A-99A81E3383DE}|BerberKuafor\\BerberKuafor.csproj|c:\\users\\drtur\\source\\repos\\berberkuafor\\berberkuafor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7461E-ACDE-4898-929A-99A81E3383DE}|BerberKuafor\\BerberKuafor.csproj|solutionrelative:berberkuafor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7461E-ACDE-4898-929A-99A81E3383DE}|BerberKuafor\\BerberKuafor.csproj|c:\\users\\drtur\\source\\repos\\berberkuafor\\berberkuafor\\views\\anasayfa\\personelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7461E-ACDE-4898-929A-99A81E3383DE}|BerberKuafor\\BerberKuafor.csproj|solutionrelative:berberkuafor\\views\\anasayfa\\personelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7461E-ACDE-4898-929A-99A81E3383DE}|BerberKuafor\\BerberKuafor.csproj|c:\\users\\drtur\\source\\repos\\berberkuafor\\berberkuafor\\views\\anasayfa\\personeldosyasi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7461E-ACDE-4898-929A-99A81E3383DE}|BerberKuafor\\BerberKuafor.csproj|solutionrelative:berberkuafor\\views\\anasayfa\\personeldosyasi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7461E-ACDE-4898-929A-99A81E3383DE}|BerberKuafor\\BerberKuafor.csproj|c:\\users\\drtur\\source\\repos\\berberkuafor\\berberkuafor\\controllers\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7461E-ACDE-4898-929A-99A81E3383DE}|BerberKuafor\\BerberKuafor.csproj|solutionrelative:berberkuafor\\controllers\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7461E-ACDE-4898-929A-99A81E3383DE}|BerberKuafor\\BerberKuafor.csproj|c:\\users\\drtur\\source\\repos\\berberkuafor\\berberkuafor\\views\\anasayfa\\personel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7461E-ACDE-4898-929A-99A81E3383DE}|BerberKuafor\\BerberKuafor.csproj|solutionrelative:berberkuafor\\views\\anasayfa\\personel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7461E-ACDE-4898-929A-99A81E3383DE}|BerberKuafor\\BerberKuafor.csproj|c:\\users\\drtur\\source\\repos\\berberkuafor\\berberkuafor\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7461E-ACDE-4898-929A-99A81E3383DE}|BerberKuafor\\BerberKuafor.csproj|solutionrelative:berberkuafor\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7461E-ACDE-4898-929A-99A81E3383DE}|BerberKuafor\\BerberKuafor.csproj|c:\\users\\drtur\\source\\repos\\berberkuafor\\berberkuafor\\models\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7461E-ACDE-4898-929A-99A81E3383DE}|BerberKuafor\\BerberKuafor.csproj|solutionrelative:berberkuafor\\models\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7461E-ACDE-4898-929A-99A81E3383DE}|BerberKuafor\\BerberKuafor.csproj|c:\\users\\drtur\\source\\repos\\berberkuafor\\berberkuafor\\views\\login\\girisyap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7461E-ACDE-4898-929A-99A81E3383DE}|BerberKuafor\\BerberKuafor.csproj|solutionrelative:berberkuafor\\views\\login\\girisyap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7461E-ACDE-4898-929A-99A81E3383DE}|BerberKuafor\\BerberKuafor.csproj|c:\\users\\drtur\\source\\repos\\berberkuafor\\berberkuafor\\berberkuafor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{78C7461E-ACDE-4898-929A-99A81E3383DE}|BerberKuafor\\BerberKuafor.csproj|solutionrelative:berberkuafor\\berberkuafor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7461E-ACDE-4898-929A-99A81E3383DE}|BerberKuafor\\BerberKuafor.csproj|c:\\users\\drtur\\source\\repos\\berberkuafor\\berberkuafor\\berberkuafor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78C7461E-ACDE-4898-929A-99A81E3383DE}|BerberKuafor\\BerberKuafor.csproj|solutionrelative:berberkuafor\\berberkuafor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7461E-ACDE-4898-929A-99A81E3383DE}|BerberKuafor\\BerberKuafor.csproj|c:\\users\\drtur\\source\\repos\\berberkuafor\\berberkuafor\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7461E-ACDE-4898-929A-99A81E3383DE}|BerberKuafor\\BerberKuafor.csproj|solutionrelative:berberkuafor\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonelDosyasi.cshtml",
+              "DocumentMoniker": "C:\\Users\\drtur\\source\\repos\\BerberKuafor\\BerberKuafor\\Views\\AnaSayfa\\PersonelDosyasi.cshtml",
+              "RelativeDocumentMoniker": "BerberKuafor\\Views\\AnaSayfa\\PersonelDosyasi.cshtml",
+              "ToolTip": "C:\\Users\\drtur\\source\\repos\\BerberKuafor\\BerberKuafor\\Views\\AnaSayfa\\PersonelDosyasi.cshtml",
+              "RelativeToolTip": "BerberKuafor\\Views\\AnaSayfa\\PersonelDosyasi.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T09:17:04.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersoneLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\drtur\\source\\repos\\BerberKuafor\\BerberKuafor\\Views\\AnaSayfa\\PersoneLayout.cshtml",
+              "RelativeDocumentMoniker": "BerberKuafor\\Views\\AnaSayfa\\PersoneLayout.cshtml",
+              "ToolTip": "C:\\Users\\drtur\\source\\repos\\BerberKuafor\\BerberKuafor\\Views\\AnaSayfa\\PersoneLayout.cshtml",
+              "RelativeToolTip": "BerberKuafor\\Views\\AnaSayfa\\PersoneLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T09:10:37.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Personel.cshtml",
+              "DocumentMoniker": "C:\\Users\\drtur\\source\\repos\\BerberKuafor\\BerberKuafor\\Views\\AnaSayfa\\Personel.cshtml",
+              "RelativeDocumentMoniker": "BerberKuafor\\Views\\AnaSayfa\\Personel.cshtml",
+              "ToolTip": "C:\\Users\\drtur\\source\\repos\\BerberKuafor\\BerberKuafor\\Views\\AnaSayfa\\Personel.cshtml",
+              "RelativeToolTip": "BerberKuafor\\Views\\AnaSayfa\\Personel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T08:10:27.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Personel.cs",
+              "DocumentMoniker": "C:\\Users\\drtur\\source\\repos\\BerberKuafor\\BerberKuafor\\Models\\Personel.cs",
+              "RelativeDocumentMoniker": "BerberKuafor\\Models\\Personel.cs",
+              "ToolTip": "C:\\Users\\drtur\\source\\repos\\BerberKuafor\\BerberKuafor\\Models\\Personel.cs",
+              "RelativeToolTip": "BerberKuafor\\Models\\Personel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:03:13.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GirisYap.cshtml",
+              "DocumentMoniker": "C:\\Users\\drtur\\source\\repos\\BerberKuafor\\BerberKuafor\\Views\\Login\\GirisYap.cshtml",
+              "RelativeDocumentMoniker": "BerberKuafor\\Views\\Login\\GirisYap.cshtml",
+              "ToolTip": "C:\\Users\\drtur\\source\\repos\\BerberKuafor\\BerberKuafor\\Views\\Login\\GirisYap.cshtml",
+              "RelativeToolTip": "BerberKuafor\\Views\\Login\\GirisYap.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T07:47:46.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\drtur\\source\\repos\\BerberKuafor\\BerberKuafor\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "BerberKuafor\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\drtur\\source\\repos\\BerberKuafor\\BerberKuafor\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "BerberKuafor\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:22:46.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\drtur\\source\\repos\\BerberKuafor\\BerberKuafor\\Program.cs",
+              "RelativeDocumentMoniker": "BerberKuafor\\Program.cs",
+              "ToolTip": "C:\\Users\\drtur\\source\\repos\\BerberKuafor\\BerberKuafor\\Program.cs",
+              "RelativeToolTip": "BerberKuafor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:07:24.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnaSayfa.cs",
+              "DocumentMoniker": "C:\\Users\\drtur\\source\\repos\\BerberKuafor\\BerberKuafor\\Controllers\\AnaSayfa.cs",
+              "RelativeDocumentMoniker": "BerberKuafor\\Controllers\\AnaSayfa.cs",
+              "ToolTip": "C:\\Users\\drtur\\source\\repos\\BerberKuafor\\BerberKuafor\\Controllers\\AnaSayfa.cs",
+              "RelativeToolTip": "BerberKuafor\\Controllers\\AnaSayfa.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwDMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:06:46.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BerberKuafor.csproj",
+              "DocumentMoniker": "C:\\Users\\drtur\\source\\repos\\BerberKuafor\\BerberKuafor\\BerberKuafor.csproj",
+              "RelativeDocumentMoniker": "BerberKuafor\\BerberKuafor.csproj",
+              "ToolTip": "C:\\Users\\drtur\\source\\repos\\BerberKuafor\\BerberKuafor\\BerberKuafor.csproj",
+              "RelativeToolTip": "BerberKuafor\\BerberKuafor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T04:26:24.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BerberKuafor",
+              "DocumentMoniker": "C:\\Users\\drtur\\source\\repos\\BerberKuafor\\BerberKuafor\\BerberKuafor.csproj",
+              "RelativeDocumentMoniker": "BerberKuafor\\BerberKuafor.csproj",
+              "ToolTip": "C:\\Users\\drtur\\source\\repos\\BerberKuafor\\BerberKuafor\\BerberKuafor.csproj",
+              "RelativeToolTip": "BerberKuafor\\BerberKuafor.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-26T07:46:50.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_MainLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\drtur\\source\\repos\\BerberKuafor\\BerberKuafor\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeDocumentMoniker": "BerberKuafor\\Views\\Shared\\_MainLayout.cshtml",
+              "ToolTip": "C:\\Users\\drtur\\source\\repos\\BerberKuafor\\BerberKuafor\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeToolTip": "BerberKuafor\\Views\\Shared\\_MainLayout.cshtml",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAuwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T04:03:28.788Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
